@@ -1,0 +1,8 @@
+*.o
+f2c
+makefile
+xsum
+xsum.out
+sysdep.hd
+tokdefs.h
+gram.in
