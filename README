@@ -1,3 +1,11 @@
+This repository tracks changes I make experimenting with the f2c source code.
+
+Presented without guarantees of any kind.
+
+-- Greg Norton, 5/29/22
+
+/* ------------------------------------------------------------------------- */
+
 To compile f2c on Linux or Unix systems, copy makefile.u to makefile,
 edit makefile if necessary (see the comments in it and below) and
 type "make" (or maybe "nmake", depending on your system).
